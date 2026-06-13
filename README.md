@@ -113,9 +113,9 @@ Each review is cleaned with a single function:
 
 ### Demo
 
-![Sentiment app — positive prediction](screenshots/app_positive.png)
+![Sentiment app — positive prediction](screenshots/app_positive.jpeg)
 
-![Sentiment app — negative prediction](screenshots/app_negative.png)
+![Sentiment app — negative prediction](screenshots/app_negative.jpeg)
 
 ---
 
